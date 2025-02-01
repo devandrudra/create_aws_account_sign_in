@@ -1,4 +1,4 @@
-# create_aws_account_sign_in
+# create_aws_account
 
   Go to URL- [create_new_root_user](https://signin.aws.amazon.com/signup?request_type=register)<br>
   Provide necessary details (e-mail,username)<br>
@@ -62,6 +62,7 @@
   ## At step 5th--<br>
   ![image]("C:\Users\rudra\OneDrive\Pictures\Screenshots\aws.png")<br>
   proceed with basic support(free)
-  
+
+# AWS_sign_in
   
   
