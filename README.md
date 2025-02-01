@@ -61,6 +61,7 @@
 
   ## At step 5th--<br>
   ![image]("C:\Users\rudra\OneDrive\Pictures\Screenshots\aws.png")<br>
+  ![img](https://github.com/devandrudra/create_aws_account_sign_in/blob/main/aws.png)
   proceed with basic support(free)
 
 # AWS_sign_in
