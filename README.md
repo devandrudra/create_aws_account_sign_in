@@ -64,6 +64,16 @@
   ![img](https://github.com/devandrudra/create_aws_account_sign_in/blob/main/aws.png)
   proceed with basic support(free)
 
-# AWS_sign_in
-  
-  
+# AWS_sign_in<br>
+  When you getting sign_in there will be two option there--<br>
+  ![img](https://github.com/devandrudra/create_aws_account_sign_in/blob/main/aws1.png)
+
+  ## Root User <br>
+  It is high administrator who have complete access to configuration.<br>
+  For security purpuse suggested to root user to create a instances with priviledges and allocate resources according to need and access the resources make a configuration.<br>
+
+  ## IAM user <br>
+  Person with privilidges provided by Root User or their instance.<br>
+  restricted access which ensure security.<br>
+  IAM user will have restricted access.<br>
+
